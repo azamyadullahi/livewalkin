@@ -1,0 +1,2 @@
+rootProject.name='livewalkin'
+include ':app'
